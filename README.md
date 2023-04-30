@@ -23,3 +23,7 @@ Select "Board Manager", then "esp8266 by ESP8266 Community" and install. Note th
 <br>
 ・Arduino　Version 1.8.19
 <br>
+# ■Version
+・V0.1
+<br>
+・V0.2 - new
