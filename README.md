@@ -26,4 +26,6 @@ Select "Board Manager", then "esp8266 by ESP8266 Community" and install. Note th
 # ■Version
 ・V0.1
 <br>
-・V0.2 - new
+・V0.2
+<br>
+・V0.3 - New!
